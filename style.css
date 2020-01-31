@@ -1,0 +1,214 @@
+body{
+  background-color:black;
+  font-family: Helvetica; 
+  color: white;
+  font-size:18px;
+}
+
+.container{
+  position:relative;
+  width: 80px;
+  height:80px;
+  border: 1px solid white;
+  top:200px;
+  margin: auto; 
+  box-sizing: border-box; 
+}
+
+.pixel {
+  content:"";
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left:20px;
+}
+.pixel2 {
+  content:"";
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 30px;
+}
+.pixel3 {
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 40px;
+}
+.pixel3 {
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 40px; 
+}
+.pixel4 {
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 50px; 
+}
+.pixel5 {
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 60px; 
+  top: 10px;
+}
+.pixel6 {
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 68px; 
+  top: 20px;
+}
+.pixel7 {
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 68px; 
+  top: 30px;
+}
+.pixel8 {
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 68px; 
+  top: 40px;
+}
+.pixel9 {
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 60px; 
+  top: 50px;
+}
+.pixel10 {
+  width: 10px; 
+  height: 10px;
+  background-color:red;
+  position: absolute;
+  left: 55px; 
+  top: 60px;
+}
+.pixel11 {
+  width: 10px; 
+  height: 10px;
+  background-color:red;
+  position: absolute;
+  left: 50px; 
+  top: 68px;
+}
+.pixel12 {
+  width: 10px; 
+  height: 10px;
+  background-color:red;
+  position: absolute;
+  left: 40px; 
+  top: 68px;
+}
+.pixel13 {
+  width: 10px; 
+  height: 10px;
+  background-color:red;
+  position: absolute;
+  left: 30px; 
+  top: 68px;
+}
+.pixel14 {
+  width: 10px; 
+  height: 10px;
+  background-color:red;
+  position: absolute;
+  left: 20px; 
+  top: 68px;
+}
+.pixel15 {
+  width: 10px; 
+  height: 10px;
+  background-color:red;
+  position: absolute;
+  left: 12px; 
+  top: 60px;
+}
+.pixel16{
+  width: 10px; 
+  height: 10px;
+  background-color:red;
+  position: absolute;
+  left: 5px; 
+  top: 50px;
+}
+.pixel17{
+  width: 10px; 
+  height: 10px;
+  background-color:white;
+  position: absolute;
+  left: 20px; 
+  top: 25px;
+}
+.pixel18{
+  width: 10px; 
+  height: 10px;
+  background-color:white;
+  position: absolute;
+  left: 50px; 
+  top: 25px;
+}
+.pixel19{
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 40px; 
+  top: 40px;
+}
+.pixel20{
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+  left: 35px; 
+  top: 35px;
+}
+.pixel21{
+  width: 10px; 
+  height: 10px;
+  background-color:pink;
+  position: absolute;
+  left: 33px; 
+  top: 54px;
+}
+.pixel22{
+  width: 10px; 
+  height: 10px;
+  background-color:pink;
+  position: absolute;
+  left: 25px; 
+  top: 51px;
+}
+.pixel23{
+  width: 10px; 
+  height: 10px;
+  background-color:pink;
+  position: absolute;
+  left: 20px; 
+  top: 48px;
+}
+.pixel24{
+  width: 10px; 
+  height: 10px;
+  background-color:pink;
+  position: absolute;
+  left: 40px; 
+  top: 55px;
+}
